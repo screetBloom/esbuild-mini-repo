@@ -1,1 +1,1 @@
-# rebuild-mini-repo
+# esbuild-mini-repo
