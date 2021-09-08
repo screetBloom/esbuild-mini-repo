@@ -1,12 +1,8 @@
 .DS_Store
 node_modules
 dist
-/build
-package/*/build
-talos/build
 coverage
 package-lock.json
-packages/runtime/src/**/yarn.lock
 yarn.lock
 
 # local env files
