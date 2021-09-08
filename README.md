@@ -9,7 +9,7 @@ node ./build
 
 <br>
 <br>
-Error:
+<p style="color:red">Error:</p>
 <br>
 
 ``` js
