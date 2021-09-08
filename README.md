@@ -11,6 +11,7 @@ node ./build
 <br>
 Error:
 <br>
+
 ``` js
 /Users/esbuild-mini-repo/build/index.js:10
     __require.resolve("vue")
