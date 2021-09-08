@@ -1,5 +1,8 @@
 # esbuild-mini-repo
+- bug1: [tsup#369](https://github.com/egoist/tsup/issues/369)
+- bug2: [esbuild#1579](https://github.com/evanw/esbuild/issues/1579)
 
+<br>
 
 ## Steps to reproduce
 
