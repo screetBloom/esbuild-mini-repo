@@ -9,7 +9,7 @@
     "build": "esbuild index.js --bundle --outfile=build/index.js"
   },
   "devDependencies": {
-    "esbuild": "^0.12.25"
+    "esbuild": "^0.12.26"
   },
   "dependencies": {
     "vue": "^2.6.14"

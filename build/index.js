@@ -1,7 +1,5 @@
 (() => {
-  var __require = (x) => {
-    if (typeof require !== "undefined")
-      return require(x);
+  var __require = typeof require !== "undefined" ? require : (x) => {
     throw new Error('Dynamic require of "' + x + '" is not supported');
   };
 
